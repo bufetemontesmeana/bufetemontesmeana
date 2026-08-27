@@ -9,7 +9,6 @@
 </p>
 
 
-# ⚖️ Bufete Montes Meana
 
 ### Legal Services • Professional Counsel • Trusted Solutions
 
