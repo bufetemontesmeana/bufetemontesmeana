@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="Bufete_Montes_Meana_GitHub_512.jpg" width="180" alt="Bufete Montes Meana">
+</p>
+
+<h1 align="center">⚖️ Bufete Montes Meana</h1>
+
+<p align="center">
+  <strong>Legal Services • Professional Counsel • Trusted Solutions</strong>
+</p>
+
+
 # ⚖️ Bufete Montes Meana
 
 ### Legal Services • Professional Counsel • Trusted Solutions
