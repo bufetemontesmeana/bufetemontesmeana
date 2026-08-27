@@ -10,7 +10,7 @@
 
 
 
-### Legal Services • Professional Counsel • Trusted Solutions
+
 
 Welcome to **Bufete Montes Meana**, a professional legal practice focused on providing clear, strategic and reliable legal guidance.
 
